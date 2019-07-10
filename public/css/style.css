@@ -1,0 +1,16 @@
+.heading{
+	text-align: center;
+}
+.navbar-nav>li>a {
+	border: 1px solid green; 
+	font-weight: bold;
+}
+.navbar-nav>li {
+	padding: 5px;
+}
+.nav>li>a:focus, .nav>li>a:hover {
+	color: red;
+}
+.menu-bar {
+    margin-bottom: 50px;
+}
